@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "properties_react",
-    "slug": "properties_react",
+    "name": "prop_react",
+    "slug": "prop_react",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
